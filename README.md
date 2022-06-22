@@ -16,3 +16,5 @@
 ### DB
 ## 실행 화면
 ### [실행화면](https://github.com/dlaudgns88/JavaProject/issues/2/)
+## 기술명세서
+### [기술명세서](https://docs.google.com/spreadsheets/d/1YWAfiWYq4yJSRc6Z-tRaZPGps5dcL7P-pPYk8wlNaSE/edit?usp=sharing/)
