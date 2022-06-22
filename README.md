@@ -5,8 +5,8 @@
 ## 팀원
 ### 이명훈, 홍준서 
 ![bookmain](https://user-images.githubusercontent.com/103983433/174889726-4c484d37-e3e2-46de-a9cd-2320c04caf9f.png)
-## 실행화면
-### [실행화면](https://github.com/dlaudgns88/JavaProject/issues/2/)
+### 실행영상 
+https://user-images.githubusercontent.com/103983433/174972026-454ace46-8918-46fe-b2b5-87e3c0dbe94a.mp4
 
 ## 프로젝트 기간
 ### 22.03.17.~22.03.30
