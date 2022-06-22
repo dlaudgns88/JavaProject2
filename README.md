@@ -2,6 +2,8 @@
 
 ## 팀 프로젝트
 ### 도서대여프로젝트 프로그램 구축
+## 팀원
+### 이명훈, 홍준서 
 ![bookmain](https://user-images.githubusercontent.com/103983433/174889726-4c484d37-e3e2-46de-a9cd-2320c04caf9f.png)
 ## 실행화면
 ### [실행화면](https://github.com/dlaudgns88/JavaProject/issues/2/)
